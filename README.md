@@ -18,8 +18,8 @@ npm run dev
 
 ## 📋 주요 기능
 
-- [AIssue-FE-React](https://github.com/Mai-Nova/AIssue-FE-React)와 RESTful API 연동
-- [AIssue-BE-Flask](https://github.com/Mai-Nova/AIssue-BE-Flask)와 RESTful API 연동
+- [AIssue-FE-React](https://github.com/c99-dev/AIssue-FE-React)와 RESTful API 연동
+- [AIssue-BE-Flask](https://github.com/c99-dev/AIssue-BE-Flask)와 RESTful API 연동
 - GitHub API 연동
 - 인증, 인가 JWT 
 - 결제 서비스(토스페이먼츠)와 RESTful API 연동
